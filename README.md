@@ -1,4 +1,4 @@
 # React Website Test
 React website to test my skills
 
-Credits to [@mentions](https://github.com/fireclint)
+Credits to [@fireclint](https://github.com/fireclint)
