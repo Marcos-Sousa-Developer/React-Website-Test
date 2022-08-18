@@ -1,6 +1,6 @@
 # React Website Test
 Testing my skills with react, front-end development skills <br>
-```html
+```
    <span color="red">red</span>
 ```
 
