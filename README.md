@@ -1,4 +1,4 @@
-# React_Website_Test
+# React Website Test
 React website to test my skills
 
-Credits to @fireclint
+Credits to [@mentions](https://github.com/fireclint)
