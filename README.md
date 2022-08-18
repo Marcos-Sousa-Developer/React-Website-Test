@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+#React Website Test
+Testing my skills with react, front-end development skills <br>
+###### Credits to [@fireclint](https://github.com/fireclint/)
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
