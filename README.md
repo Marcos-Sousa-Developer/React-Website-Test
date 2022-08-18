@@ -1,6 +1,6 @@
 # React Website Test
 Testing my skills with react, front-end development skills <br>
-<span style="color:green;">Word up</span>
+<span color="red">red</span>
 #### Credits to [@fireclint](https://github.com/fireclint/)
 
 ### Getting Started with Create React App
