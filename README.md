@@ -1,10 +1,8 @@
 # React Website Test
 Testing my skills with react, front-end development skills <br>
 ```
-   <span color="red">red</span>
+   Credits to [@fireclint](https://github.com/fireclint/)
 ```
-
-#### Credits to [@fireclint](https://github.com/fireclint/)
 
 ### Getting Started with Create React App
 
